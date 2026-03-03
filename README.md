@@ -1,16 +1,16 @@
-## Hi there 👋
+## Oi, meu nome é Caio Lopes 👋
+**Analista de Dados** com foco em <ins>Business Intelligence, Power BI e indicadores estratégicos.</ins>
 
-<!--
-**caioaugustolopes/caioaugustolopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Atualmente estudando **Power BI avançado** no [Data Science Academy](https://www.datascienceacademy.com.br/start)
+- 💻 Foco em **Business Intelligence** e análise de indicadores na **Grande SP**
+- 🛠️ Atualmente focado em
+  - Power BI (DAX e Modelagem)
+  - SQL para análise de dados          
+ <!-- <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />-->
 
-Here are some ideas to get you started:
+  ### 📌 Você me encontra em
+  <a href="https://www.linkedin.com/in/caioalopes/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
